@@ -8,7 +8,7 @@ https://git-scm.com/download/win
 
 3. Клонирайте отдалеченото в локално хранилище:
 ```
-git clone https://github.com/dimitarminchev/ITSliven.git
+git clone https://github.com/dimitarminchev/ITSliven2019
 ```
 4. Направете промени в локалното хранилище.
 

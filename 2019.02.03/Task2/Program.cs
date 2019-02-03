@@ -30,16 +30,10 @@ namespace Task2
             return max(p) - min(p);
         }
 
-        // Функция за отпечатване на числото в съответната бройна система
-        static void print(int p)
-        {
-            // TODO
-        }
-
         // Главна функция
         static void Main(string[] args)
         {
-            int p = 83; 
+            int p = 10; 
             Console.WriteLine(" min = {0} ({1})", min(p), p);
             Console.WriteLine(" max = {0} ({1})", max(p), p);
             Console.WriteLine("diff = {0} ({1})", diff(p), p);

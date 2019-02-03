@@ -165,7 +165,7 @@ namespace Task1
             // (2) -> (10), (2) -> (16)
             Console.WriteLine("{0} (2) = {1} (10)", "1100101", bin2dec("1100101"));
             Console.WriteLine("{0} (2) = {1} (16)", "1100101", bin2hex("1100101"));
-            ATEL
+            
             // (16) -> (10), (16) -> (2)
             Console.WriteLine("{0} (16) = {1} (10)", "ABC", hex2dec("ABC"));
             Console.WriteLine("{0} (16) = {1} (2)", "ABC", hex2bin("ABC"));

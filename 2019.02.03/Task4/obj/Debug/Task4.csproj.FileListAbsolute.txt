@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\bin\Debug\Task4.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\bin\Debug\Task4.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\bin\Debug\Task4.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\obj\Debug\Task4.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task4\obj\Debug\Task4.pdb

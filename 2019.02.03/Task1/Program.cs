@@ -115,10 +115,7 @@ namespace Task1
                 case "1110": hex += "E"; break;
                 case "1111": hex += "F"; break;
             }
-            // Обръщане
-            char[] reverse = hex.ToCharArray();
-            Array.Reverse(reverse);
-            return new string(reverse);
+            return StringReverse(hex);
         }
 
         // Конвертор от шестнадесетично в двоично

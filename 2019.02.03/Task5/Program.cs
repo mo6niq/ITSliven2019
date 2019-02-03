@@ -90,6 +90,16 @@ namespace Task5
             Console.WriteLine("{0} (2) + {1} (2) = {2} (2)",
             dec2bin(12), dec2bin(15), binplus(dec2bin(12), dec2bin(15)));
 
+            // Empty Line
+            Console.WriteLine("---");
+
+            // 9 + 15 = 24
+            Console.WriteLine("{0} (10) + {1} (10) = {2} (10)",
+            9, 15, bin2dec(binplus(dec2bin(9), dec2bin(15))));
+
+            Console.WriteLine("{0} (2) + {1} (2) = {2} (2)",
+            dec2bin(9), dec2bin(15), binplus(dec2bin(9), dec2bin(15)));
+
         }
     }
 }

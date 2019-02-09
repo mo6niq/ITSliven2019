@@ -24,7 +24,6 @@ namespace _15.TrippleLatinLetters
                      (char)('a' + b),
                      (char)('a' + c)
                 );
-
         }
     }
 }

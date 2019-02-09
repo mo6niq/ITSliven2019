@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\bin\Debug\_16.Greetings.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\bin\Debug\_16.Greetings.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\bin\Debug\_16.Greetings.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\obj\Debug\16. Greetings.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\obj\Debug\16. Greetings.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\obj\Debug\_16.Greetings.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\16. Greetings\obj\Debug\_16.Greetings.pdb

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. CircleArea", "08. Circl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. RealNumbersSum", "09. RealNumbersSum\09. RealNumbersSum.csproj", "{30DE753E-D175-47B1-8A1F-B2D2AFB7512B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Rectangle", "10. Rectangle\10. Rectangle.csproj", "{D6031008-595A-495D-9384-7AF17E0F3F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. SpeedConvertion", "11. SpeedConvertion\11. SpeedConvertion.csproj", "{3DDE2B9C-340C-4EF5-8DB5-9025633B1E2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{30DE753E-D175-47B1-8A1F-B2D2AFB7512B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30DE753E-D175-47B1-8A1F-B2D2AFB7512B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30DE753E-D175-47B1-8A1F-B2D2AFB7512B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6031008-595A-495D-9384-7AF17E0F3F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6031008-595A-495D-9384-7AF17E0F3F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6031008-595A-495D-9384-7AF17E0F3F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6031008-595A-495D-9384-7AF17E0F3F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDE2B9C-340C-4EF5-8DB5-9025633B1E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDE2B9C-340C-4EF5-8DB5-9025633B1E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDE2B9C-340C-4EF5-8DB5-9025633B1E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDE2B9C-340C-4EF5-8DB5-9025633B1E2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

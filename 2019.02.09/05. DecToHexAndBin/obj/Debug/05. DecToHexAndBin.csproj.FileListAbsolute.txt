@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\bin\Debug\_05.DecToHexAndBin.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\bin\Debug\_05.DecToHexAndBin.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\bin\Debug\_05.DecToHexAndBin.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\obj\Debug\05. DecToHexAndBin.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\obj\Debug\_05.DecToHexAndBin.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\05. DecToHexAndBin\obj\Debug\_05.DecToHexAndBin.pdb

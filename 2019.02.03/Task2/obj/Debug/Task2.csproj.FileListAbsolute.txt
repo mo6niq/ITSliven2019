@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\bin\Debug\Task2.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\bin\Debug\Task2.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\bin\Debug\Task2.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\obj\Debug\Task2.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.03\Task2\obj\Debug\Task2.pdb

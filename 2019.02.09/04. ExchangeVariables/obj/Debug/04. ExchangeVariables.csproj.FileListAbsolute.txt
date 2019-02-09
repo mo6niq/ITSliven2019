@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\bin\Debug\_04.ExchangeVariables.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\bin\Debug\_04.ExchangeVariables.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\bin\Debug\_04.ExchangeVariables.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\obj\Debug\04. ExchangeVariables.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\obj\Debug\04. ExchangeVariables.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\obj\Debug\_04.ExchangeVariables.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\04. ExchangeVariables\obj\Debug\_04.ExchangeVariables.pdb

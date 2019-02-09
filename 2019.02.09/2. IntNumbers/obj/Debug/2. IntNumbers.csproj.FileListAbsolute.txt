@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\bin\Debug\_2.IntNumbers.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\bin\Debug\_2.IntNumbers.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\bin\Debug\_2.IntNumbers.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\obj\Debug\2. IntNumbers.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\obj\Debug\2. IntNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\obj\Debug\_2.IntNumbers.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\2. IntNumbers\obj\Debug\_2.IntNumbers.pdb

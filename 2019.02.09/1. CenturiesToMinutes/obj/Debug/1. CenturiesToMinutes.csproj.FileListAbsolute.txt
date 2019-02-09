@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\bin\Debug\_1.CenturiesToMinutes.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\bin\Debug\_1.CenturiesToMinutes.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\bin\Debug\_1.CenturiesToMinutes.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\obj\Debug\1. CenturiesToMinutes.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\obj\Debug\1. CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\obj\Debug\_1.CenturiesToMinutes.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\1. CenturiesToMinutes\obj\Debug\_1.CenturiesToMinutes.pdb

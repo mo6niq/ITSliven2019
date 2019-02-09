@@ -8,7 +8,7 @@ namespace _3.HexVariable
 {
     class Program
     {
-        // Task 3.
+        // 3. Шестнадесетична променлива
         static void Main(string[] args)
         {
             // Въвеждане на текстова променлива

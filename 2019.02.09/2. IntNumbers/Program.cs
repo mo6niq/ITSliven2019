@@ -5,7 +5,7 @@ namespace _2.IntNumbers
 {
     class Program
     {
-        // Task 2.
+        // 2. Цели числа
         static void Main(string[] args)
         {
             // Определяне на правилните типове цели числа

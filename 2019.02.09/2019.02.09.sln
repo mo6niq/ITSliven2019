@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. CenturiesToMinutes", "1. CenturiesToMinutes\1. CenturiesToMinutes.csproj", "{5E6A5841-0591-4966-8AAE-E2192467E9AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CenturiesToMinutes", "1. CenturiesToMinutes\01. CenturiesToMinutes.csproj", "{5E6A5841-0591-4966-8AAE-E2192467E9AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. IntNumbers", "2. IntNumbers\2. IntNumbers.csproj", "{224B8A68-549B-4C10-9D93-1FAFD274299C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. IntNumbers", "2. IntNumbers\02. IntNumbers.csproj", "{224B8A68-549B-4C10-9D93-1FAFD274299C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. HexVariable", "3. HexVariable\3. HexVariable.csproj", "{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. HexVariable", "3. HexVariable\03. HexVariable.csproj", "{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. ExchangeVariables", "04. ExchangeVariables\04. ExchangeVariables.csproj", "{B08E8764-586B-4D85-B2FB-9ACCA52595AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. DecToHexAndBin", "05. DecToHexAndBin\05. DecToHexAndBin.csproj", "{25E564B3-9E72-4FE3-BC09-ADA46269EA81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B08E8764-586B-4D85-B2FB-9ACCA52595AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08E8764-586B-4D85-B2FB-9ACCA52595AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08E8764-586B-4D85-B2FB-9ACCA52595AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08E8764-586B-4D85-B2FB-9ACCA52595AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25E564B3-9E72-4FE3-BC09-ADA46269EA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E564B3-9E72-4FE3-BC09-ADA46269EA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E564B3-9E72-4FE3-BC09-ADA46269EA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E564B3-9E72-4FE3-BC09-ADA46269EA81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

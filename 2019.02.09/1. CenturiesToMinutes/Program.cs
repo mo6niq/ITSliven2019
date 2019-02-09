@@ -8,7 +8,7 @@ namespace _1.CenturiesToMinutes
 {
     class Program
     {
-        // Task 1. 
+        // 1. Векове към минути 
         static void Main(string[] args)
         {
             Console.Write("Centuries = ");

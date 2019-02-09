@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\bin\Debug\_06.DecimalDevider.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\bin\Debug\_06.DecimalDevider.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\bin\Debug\_06.DecimalDevider.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\obj\Debug\06. DecimalDevider.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\obj\Debug\_06.DecimalDevider.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\06. DecimalDevider\obj\Debug\_06.DecimalDevider.pdb

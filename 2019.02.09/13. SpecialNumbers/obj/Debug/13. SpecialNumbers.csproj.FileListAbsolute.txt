@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\bin\Debug\_13.SpecialNumbers.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\bin\Debug\_13.SpecialNumbers.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\bin\Debug\_13.SpecialNumbers.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\obj\Debug\13. SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\obj\Debug\_13.SpecialNumbers.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\13. SpecialNumbers\obj\Debug\_13.SpecialNumbers.pdb

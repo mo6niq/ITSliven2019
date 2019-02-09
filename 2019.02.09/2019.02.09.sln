@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. CenturiesToMinutes", "1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. IntNumbers", "2. IntNumbers\2. IntNumbers.csproj", "{224B8A68-549B-4C10-9D93-1FAFD274299C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. HexVariable", "3. HexVariable\3. HexVariable.csproj", "{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{224B8A68-549B-4C10-9D93-1FAFD274299C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{224B8A68-549B-4C10-9D93-1FAFD274299C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{224B8A68-549B-4C10-9D93-1FAFD274299C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E4F303-FE3D-47EB-8EFA-DC56BF0B1136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

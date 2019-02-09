@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\bin\Debug\_10.Rectangle.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\bin\Debug\_10.Rectangle.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\bin\Debug\_10.Rectangle.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\obj\Debug\10. Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\obj\Debug\_10.Rectangle.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\10. Rectangle\obj\Debug\_10.Rectangle.pdb

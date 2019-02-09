@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\bin\Debug\_08.CircleArea.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\bin\Debug\_08.CircleArea.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\bin\Debug\_08.CircleArea.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\obj\Debug\08. CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\obj\Debug\_08.CircleArea.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\08. CircleArea\obj\Debug\_08.CircleArea.pdb

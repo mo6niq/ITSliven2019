@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\bin\Debug\_09.RealNumbersSum.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\bin\Debug\_09.RealNumbersSum.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\bin\Debug\_09.RealNumbersSum.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\obj\Debug\09. RealNumbersSum.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\obj\Debug\_09.RealNumbersSum.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\09. RealNumbersSum\obj\Debug\_09.RealNumbersSum.pdb

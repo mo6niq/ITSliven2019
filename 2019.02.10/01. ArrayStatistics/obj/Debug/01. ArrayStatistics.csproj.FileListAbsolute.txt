@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\bin\Debug\_01.ArrayStatistics.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\bin\Debug\_01.ArrayStatistics.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\bin\Debug\_01.ArrayStatistics.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\obj\Debug\01. ArrayStatistics.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\obj\Debug\01. ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\obj\Debug\_01.ArrayStatistics.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\01. ArrayStatistics\obj\Debug\_01.ArrayStatistics.pdb

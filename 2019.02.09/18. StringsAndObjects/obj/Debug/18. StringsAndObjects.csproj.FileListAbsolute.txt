@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\bin\Debug\_18.StringsAndObjects.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\bin\Debug\_18.StringsAndObjects.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\bin\Debug\_18.StringsAndObjects.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\obj\Debug\18. StringsAndObjects.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\obj\Debug\18. StringsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\obj\Debug\_18.StringsAndObjects.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\18. StringsAndObjects\obj\Debug\_18.StringsAndObjects.pdb

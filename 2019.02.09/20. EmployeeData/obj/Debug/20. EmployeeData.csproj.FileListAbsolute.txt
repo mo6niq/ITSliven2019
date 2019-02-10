@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\bin\Debug\_20.EmployeeData.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\bin\Debug\_20.EmployeeData.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\bin\Debug\_20.EmployeeData.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\obj\Debug\20. EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\obj\Debug\_20.EmployeeData.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\20. EmployeeData\obj\Debug\_20.EmployeeData.pdb

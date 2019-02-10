@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\bin\Debug\_04.ArrayToNumber.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\bin\Debug\_04.ArrayToNumber.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\bin\Debug\_04.ArrayToNumber.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\obj\Debug\04. ArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\obj\Debug\_04.ArrayToNumber.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\obj\Debug\_04.ArrayToNumber.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\04. ArrayToNumber\obj\Debug\04. ArrayToNumber.csprojAssemblyReference.cache

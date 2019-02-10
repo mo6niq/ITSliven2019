@@ -17,7 +17,6 @@ namespace _03.LetterIndex
             // Обработка и извеждане на индекса на всяка буква
             for (int i = 0; i < input.Length; i++)
             Console.WriteLine("{0} -> {1}", input[i], input[i] - 97);
-
         }
     }
 }

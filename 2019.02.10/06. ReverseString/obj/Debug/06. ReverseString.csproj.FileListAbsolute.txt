@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\bin\Debug\_06.ReverseString.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\bin\Debug\_06.ReverseString.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\bin\Debug\_06.ReverseString.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\obj\Debug\06. ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\obj\Debug\_06.ReverseString.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\06. ReverseString\obj\Debug\_06.ReverseString.pdb

@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\bin\Debug\_05.ArrayReverse.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\bin\Debug\_05.ArrayReverse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\bin\Debug\_05.ArrayReverse.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\obj\Debug\05. ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\obj\Debug\_05.ArrayReverse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\05. ArrayReverse\obj\Debug\_05.ArrayReverse.pdb

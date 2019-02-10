@@ -1,0 +1,7 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\bin\Debug\_03.LetterIndex.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\bin\Debug\_03.LetterIndex.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\bin\Debug\_03.LetterIndex.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\obj\Debug\03. LetterIndex.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\obj\Debug\_03.LetterIndex.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\obj\Debug\_03.LetterIndex.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\03. LetterIndex\obj\Debug\03. LetterIndex.csprojAssemblyReference.cache

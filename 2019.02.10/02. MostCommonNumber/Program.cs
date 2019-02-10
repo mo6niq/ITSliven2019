@@ -12,7 +12,7 @@ namespace _02.MostCommonNumber
         static void Main(string[] args)
         {
             // Входни данни
-            var array = Console.ReadLine() .Split(' ').Select(int.Parse).ToArray();
+            var array = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
 
             // Намираме броя на срещанията на всяко число
             int[] count = new int[65535];
@@ -28,6 +28,8 @@ namespace _02.MostCommonNumber
                     maxIndex = i;
                 } 
             Console.WriteLine(maxIndex);
+
+            // TODO: При равен брой срещания намерете най-лявото
         }
     }
 }

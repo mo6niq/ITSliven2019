@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. StringsAndObjects", "18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. CharReverse", "19. CharReverse\19. CharReverse.csproj", "{3E1D8E79-DEAB-474A-8E61-95F3215AB856}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. EmployeeData", "20. EmployeeData\20. EmployeeData.csproj", "{0D1E161F-60E0-440A-B3E0-92921207EC20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. PiramidVolume", "21. PiramidVolume\21. PiramidVolume.csproj", "{3DCFB43A-A5C7-48F9-BE3D-3EEEA0E8CE15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{3E1D8E79-DEAB-474A-8E61-95F3215AB856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E1D8E79-DEAB-474A-8E61-95F3215AB856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E1D8E79-DEAB-474A-8E61-95F3215AB856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1E161F-60E0-440A-B3E0-92921207EC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1E161F-60E0-440A-B3E0-92921207EC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1E161F-60E0-440A-B3E0-92921207EC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1E161F-60E0-440A-B3E0-92921207EC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DCFB43A-A5C7-48F9-BE3D-3EEEA0E8CE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCFB43A-A5C7-48F9-BE3D-3EEEA0E8CE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCFB43A-A5C7-48F9-BE3D-3EEEA0E8CE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCFB43A-A5C7-48F9-BE3D-3EEEA0E8CE15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

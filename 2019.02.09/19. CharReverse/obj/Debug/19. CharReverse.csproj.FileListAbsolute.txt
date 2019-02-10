@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\bin\Debug\_19.CharReverse.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\bin\Debug\_19.CharReverse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\bin\Debug\_19.CharReverse.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\obj\Debug\19. CharReverse.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\obj\Debug\_19.CharReverse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.09\19. CharReverse\obj\Debug\_19.CharReverse.pdb

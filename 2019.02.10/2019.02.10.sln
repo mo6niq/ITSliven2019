@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ArrayStatistics", "01. ArrayStatistics\01. ArrayStatistics.csproj", "{C3F9983F-B254-447F-BC50-A7B2EA8E3785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MostCommonNumber", "02. MostCommonNumber\02. MostCommonNumber.csproj", "{0CE6DB2A-7482-4957-95D1-5670393E60BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3F9983F-B254-447F-BC50-A7B2EA8E3785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3F9983F-B254-447F-BC50-A7B2EA8E3785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3F9983F-B254-447F-BC50-A7B2EA8E3785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3F9983F-B254-447F-BC50-A7B2EA8E3785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE6DB2A-7482-4957-95D1-5670393E60BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE6DB2A-7482-4957-95D1-5670393E60BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE6DB2A-7482-4957-95D1-5670393E60BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE6DB2A-7482-4957-95D1-5670393E60BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B32BA3CA-ED42-4A13-B731-46B212E2DDAB}
+	EndGlobalSection
+EndGlobal

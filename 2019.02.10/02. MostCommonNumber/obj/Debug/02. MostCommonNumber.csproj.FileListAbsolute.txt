@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\bin\Debug\_02.MostCommonNumber.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\bin\Debug\_02.MostCommonNumber.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\bin\Debug\_02.MostCommonNumber.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\obj\Debug\02. MostCommonNumber.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\obj\Debug\_02.MostCommonNumber.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\02. MostCommonNumber\obj\Debug\_02.MostCommonNumber.pdb

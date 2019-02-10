@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. ReverseString", "06. Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. ReverseAndSum", "07. ReverseAndSum\07. ReverseAndSum.csproj", "{BABB87BB-4373-4E25-91FC-DF0E3EBEA4AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. FoldAndSum", "08. FoldAndSum\08. FoldAndSum.csproj", "{638BE885-97CE-49B2-B1A2-493FFE250A9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BABB87BB-4373-4E25-91FC-DF0E3EBEA4AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BABB87BB-4373-4E25-91FC-DF0E3EBEA4AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BABB87BB-4373-4E25-91FC-DF0E3EBEA4AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638BE885-97CE-49B2-B1A2-493FFE250A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638BE885-97CE-49B2-B1A2-493FFE250A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638BE885-97CE-49B2-B1A2-493FFE250A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638BE885-97CE-49B2-B1A2-493FFE250A9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

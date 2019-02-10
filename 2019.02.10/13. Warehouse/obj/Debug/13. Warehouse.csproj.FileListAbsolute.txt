@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\obj\Debug\13. Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\bin\Debug\_13.Warehouse.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\bin\Debug\_13.Warehouse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\bin\Debug\_13.Warehouse.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\obj\Debug\_13.Warehouse.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\13. Warehouse\obj\Debug\_13.Warehouse.pdb

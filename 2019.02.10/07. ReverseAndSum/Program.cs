@@ -11,7 +11,7 @@ namespace _07.ReverseAndSum
         // 7. Завъртане и сумиране
         static void Main(string[] args)
         {
-            int[] nums = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+            int[] nums = Console.ReadLine().Split().Select(int.Parse).ToArray();
             int k = int.Parse(Console.ReadLine());
 
             // Обработка

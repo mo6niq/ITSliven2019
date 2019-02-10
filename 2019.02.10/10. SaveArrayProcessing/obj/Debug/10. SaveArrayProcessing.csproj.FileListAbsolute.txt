@@ -1,0 +1,6 @@
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\bin\Debug\_10.SaveArrayProcessing.exe.config
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\bin\Debug\_10.SaveArrayProcessing.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\bin\Debug\_10.SaveArrayProcessing.pdb
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\obj\Debug\10. SaveArrayProcessing.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\obj\Debug\_10.SaveArrayProcessing.exe
+C:\Users\dimit\Desktop\ITSliven2019\2019.02.10\10. SaveArrayProcessing\obj\Debug\_10.SaveArrayProcessing.pdb

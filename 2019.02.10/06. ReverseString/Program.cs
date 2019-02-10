@@ -11,7 +11,7 @@ namespace _06.ReverseString
         // 6. Обръщане на масив от символни низове
         static void Main(string[] args)
         {
-            var array = Console.ReadLine().Split(' ').ToArray();
+            var array = Console.ReadLine().Split().ToArray();
             Console.WriteLine(string.Join(" ", array.Reverse()));
         }
     }

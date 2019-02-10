@@ -1,0 +1,10 @@
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\bin\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.deps.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\bin\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.runtimeconfig.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\bin\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.runtimeconfig.dev.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\bin\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.dll
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\bin\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.pdb
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\obj\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\obj\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\obj\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.AssemblyInfo.cs
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\obj\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.dll
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\LongestSequenceOfRisingNums\obj\Debug\netcoreapp2.1\LongestSequenceOfRisingNums.pdb

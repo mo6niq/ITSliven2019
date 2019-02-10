@@ -1,0 +1,11 @@
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\bin\Debug\netcoreapp2.1\LongestMutalEnd.deps.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\bin\Debug\netcoreapp2.1\LongestMutalEnd.runtimeconfig.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\bin\Debug\netcoreapp2.1\LongestMutalEnd.runtimeconfig.dev.json
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\bin\Debug\netcoreapp2.1\LongestMutalEnd.dll
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\bin\Debug\netcoreapp2.1\LongestMutalEnd.pdb
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.AssemblyInfo.cs
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.dll
+C:\Users\ThinkPad\Desktop\ITSliven2019\2019.02.02\Zdravko Vandev\zadachite ot tekstov fail 11 uprajnenie 2\harder arrays\harder arrays\obj\Debug\netcoreapp2.1\LongestMutalEnd.pdb
